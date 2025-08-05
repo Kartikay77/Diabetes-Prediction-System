@@ -67,27 +67,37 @@ This project is a machine learning-based diagnostic tool that estimates an indiv
 ```bash
 git clone https://github.com/Kartikay77/Diabetes-Prediction-System.git
 cd Diabetes-Prediction-System
+```
 
-# 2. Install Requirements
+### 2. Install Requirements
+
+```bash
 pip install -r requirements.txt
+```
 
-3. Run the Notebook
-Launch Diabetes_prediction_system.ipynb in Jupyter Notebook or VSCode and run the cells to:
-Explore the data
-Train and evaluate the model
-Use the CLI to predict diabetes manually
-4. Try the Web App (Streamlit)
-✅ Live App: Click here to try it!
+### 3. Run the Notebook
+
+- Launch `Diabetes_prediction_system.ipynb` in **Jupyter Notebook** or **VSCode**
+- Run the cells to:
+  - Explore the data
+  - Train and evaluate the model
+  - Use the CLI to predict diabetes manually
+
+### 4. Try the Web App (Streamlit)
+
 ✅ **Live Web App**: [Try it here](https://diabetes-predictor-7nkfu3yuwvfajcqxucytrx.streamlit.app)
-🌱 Future Work
-Improve model accuracy using ensemble methods like Random Forest or XGBoost
-Add explainability using SHAP or LIME
-Deploy advanced UI/UX with chatbot integration for patient interaction
-Incorporate additional features like smoking history and family medical records
 
 ---
 
-Let me know if you'd like a separate `requirements.txt` or deployment instructions for Streamlit as well!
+## 🌱 Future Work
 
+- Improve model accuracy using **ensemble methods** like Random Forest or XGBoost  
+- Add **explainability** using SHAP or LIME  
+- Deploy advanced UI/UX with **chatbot integration** for patient interaction  
+- Incorporate additional features like **smoking history** and **family medical records**
 
+---
 
+## 📬 Contact
+
+Created by [Kartikay Gupta](https://github.com/Kartikay77) – feel free to connect for feedback, suggestions, or collaboration!
